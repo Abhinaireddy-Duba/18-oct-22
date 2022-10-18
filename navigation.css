@@ -1,0 +1,14 @@
+body{
+			margin: 0%;
+		}
+		.navbar{
+			background-color: blue;
+			padding: 1%;
+			color: red;
+			text-align: center;
+		}
+		.navbar a{
+			margin-right:10%;
+			color: red;
+			font-size: 25px;
+			text-decoration: none;
